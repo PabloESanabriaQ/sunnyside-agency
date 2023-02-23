@@ -4,7 +4,7 @@ export default function Header() {
   return (
     <header
       className="w-full min-w-fit h-full min-h-full py-5 bg-mobile-header bg-no-repeat bg-center bg-cover
-    xl:bg-desktop-header text-white flex flex-1 flex-col items-center gap-20"
+    md:bg-desktop-header text-white flex flex-1 flex-col items-center gap-20"
     >
       <Navbar />
       <h1 className="font-fraunces text-center text-5xl tracking-widest font-black">

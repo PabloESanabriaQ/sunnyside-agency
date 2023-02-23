@@ -1,11 +1,14 @@
 import "./App.css";
+import About from "./components/About";
 import Header from "./components/Header";
+import Services from "./components/Services";
 
 function App() {
   return (
     <>
       <Header />
-      <div className="App">ola vale</div>
+      <About />
+      <Services />
     </>
   );
 }

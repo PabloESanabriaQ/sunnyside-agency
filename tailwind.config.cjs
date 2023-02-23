@@ -10,9 +10,10 @@ module.exports = {
         'desktop-header': "url('./src/assets/desktop/image-header.jpg')",
         'mobile-header': "url('./src/assets/mobile/image-header.jpg')",
         'footer-texture': "url('/img/footer-texture.png')",
-      },
-      backgroundPosition: {
-        'center-center': 'center 40%',
+        'desktop-photography': "url('./src/assets/desktop/image-photography.jpg')",
+        'mobile-photography': "url('./src/assets/mobile/image-photography.jpg')",
+        'desktop-graphic-design': "url('./src/assets/desktop/image-graphic-design.jpg')",
+        'mobile-graphic-design': "url('./src/assets/mobile/image-graphic-design.jpg')",
       },
       letterSpacing: {
         'widest': '.15em',
